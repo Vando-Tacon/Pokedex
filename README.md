@@ -50,4 +50,9 @@ Siga os passos abaixo para executar o projeto no seu computador.
 - **Node.js**: Certifique-se de ter a versão LTS ou superior instalada.
 - **Git**: Para clonar o repositório.
 
+ 
+1. git clone https://github.com/Vando-Tacon/Pokedex.git (nome do clone)
+2. npm install
+3. npm run dev
+4. clique para abrir o servidor local  no navegador 
 
