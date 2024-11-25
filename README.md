@@ -25,11 +25,6 @@ O **Pokémon Pokedex** é uma aplicação interativa que permite aos usuários b
 - **Styled-components**: Para estilização e aplicação de temas de forma modular e reutilizável.
 - **Axios**: Para requisições HTTP rápidas e eficientes à PokeAPI.
 
-### **Por que estas ferramentas?**
-- **React.js**: Oferece um ambiente escalável e eficiente para aplicações interativas.
-- **Styled-components**: Permite aplicar temas dinâmicos (claro/escuro) e mantém o código CSS organizado.
-- **Axios**: Facilita o consumo de APIs externas com métodos simplificados e suporte a interceptores.
-
 ---
 
 ## 🤔 Decisões de Desenvolvimento
